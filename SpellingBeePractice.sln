@@ -1,14 +1,30 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30114.105
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{037C77B8-A0BE-46CF-B2E6-2ED3AC5AAA2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpellingBeePractice.StaticApp", "src\SpellingBeePractice.StaticApp\SpellingBeePractice.StaticApp.csproj", "{CFBBE5BB-024D-43ED-8E40-9C5F16C55C67}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFBBE5BB-024D-43ED-8E40-9C5F16C55C67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFBBE5BB-024D-43ED-8E40-9C5F16C55C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFBBE5BB-024D-43ED-8E40-9C5F16C55C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFBBE5BB-024D-43ED-8E40-9C5F16C55C67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CFBBE5BB-024D-43ED-8E40-9C5F16C55C67} = {037C77B8-A0BE-46CF-B2E6-2ED3AC5AAA2E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E880296-3123-44AF-B123-BDF8F1FF3F39}
 	EndGlobalSection
 EndGlobal
