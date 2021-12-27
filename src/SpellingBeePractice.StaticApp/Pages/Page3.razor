@@ -1,0 +1,35 @@
+﻿@page "/page3"
+<PageTitle>Spelling Bee 2022 - Page 3</PageTitle>
+<h2 class="pb-2 border-bottom">Spelling Bee 2022 - Page 3</h2>
+
+
+@if (Words == null)
+{
+    <p>Loading...</p>
+}
+else
+{
+    foreach (var word in Words)
+    {
+        <div class="row g-5 py-1">
+            <div class="col-md-9">
+                <a class="btn btn-outline-dark btn-sm" href="#" data-src="@word.DictionaryEntry.Phonetic">
+                    @word.PositionInCollection. @word.Text
+                    <i class='bi-caret-right'></i>
+                </a>
+            </div>
+            <div class="col-md-3">
+                <button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#word1Definition" aria-expanded="false" aria-controls="word1Definition">
+                    Definition
+                </button>
+
+                <button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#word1Origin" aria-expanded="false" aria-controls="word1Origin">
+                    Origin
+                </button>
+                <button class="btn btn-success btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#word1Spelling" aria-expanded="false" aria-controls="word1Spelling">
+                    Spelling
+                </button>
+            </div>
+        </div>
+    }
+}

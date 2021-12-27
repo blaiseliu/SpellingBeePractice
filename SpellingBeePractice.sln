@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{037C77B8-A0B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpellingBeePractice.StaticApp", "src\SpellingBeePractice.StaticApp\SpellingBeePractice.StaticApp.csproj", "{CFBBE5BB-024D-43ED-8E40-9C5F16C55C67}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{E514B57B-79D4-43D4-9EBB-9C308B6FF24B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpellingBeePractice.StaticApp.Tests", "tests\SpellingBeePractice.StaticApp.Tests\SpellingBeePractice.StaticApp.Tests.csproj", "{B7201CBB-AF2F-42D7-834A-4E091044F258}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +21,17 @@ Global
 		{CFBBE5BB-024D-43ED-8E40-9C5F16C55C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFBBE5BB-024D-43ED-8E40-9C5F16C55C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFBBE5BB-024D-43ED-8E40-9C5F16C55C67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7201CBB-AF2F-42D7-834A-4E091044F258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7201CBB-AF2F-42D7-834A-4E091044F258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7201CBB-AF2F-42D7-834A-4E091044F258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7201CBB-AF2F-42D7-834A-4E091044F258}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{CFBBE5BB-024D-43ED-8E40-9C5F16C55C67} = {037C77B8-A0BE-46CF-B2E6-2ED3AC5AAA2E}
+		{B7201CBB-AF2F-42D7-834A-4E091044F258} = {E514B57B-79D4-43D4-9EBB-9C308B6FF24B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0E880296-3123-44AF-B123-BDF8F1FF3F39}
