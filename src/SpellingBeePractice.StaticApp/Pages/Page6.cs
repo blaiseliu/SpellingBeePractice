@@ -5,7 +5,7 @@ using SpellingBeePractice.StaticApp.Services;
 
 namespace SpellingBeePractice.StaticApp.Pages
 {
-    public partial class Page3
+    public partial class Page6
     {
         private IEnumerable<WordsExportViewModel> Words { get; set; }
 
@@ -21,7 +21,7 @@ namespace SpellingBeePractice.StaticApp.Pages
         }
         protected override async Task OnInitializedAsync()
         {
-            var words = await WordsDataServices.GetWordsFromCollection("page3");
+            var words = await WordsDataServices.GetWordsFromCollection("page6");
             Words = words;
         }
     }

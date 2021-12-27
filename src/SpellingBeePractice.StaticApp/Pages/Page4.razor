@@ -1,6 +1,6 @@
-﻿@page "/page3"
-<PageTitle>Spelling Bee 2022 - Page 3</PageTitle>
-<h2 class="pb-2 border-bottom">Spelling Bee 2022 - Page 3</h2>
+﻿@page "/page4"
+<PageTitle>Spelling Bee 2022 - Page 4</PageTitle>
+<h2 class="pb-2 border-bottom">Spelling Bee 2022 - Page 4</h2>
 
 
 @if (Words == null)
@@ -55,7 +55,7 @@ else
         <div class="row g-5 py-1">
             <div class="col-md-12">
                 <div class="collapse multi-collapse" id="@($"word{word.PositionInCollection}Definition")">
-                    <div class="card card-body shadow p-3 mb-1 bg-light rounded">
+                    <div class="card card-body shadow p-4 mb-1 bg-light rounded">
                         @{
                             foreach (var meaning in word.DictionaryEntry.Meanings)
                             {
@@ -83,7 +83,7 @@ else
         <div class="row g-5 py-1">
             <div class="col-md-12">
                 <div class="collapse multi-collapse" id="@($"word{word.PositionInCollection}Origin")">
-                    <div class="card card-body shadow p-3 mb-1 bg-light rounded">
+                    <div class="card card-body shadow p-4 mb-1 bg-light rounded">
                         <h2 class="card-title">Origin</h2>
                         <p class="card-text">@word.DictionaryEntry.Origin</p>
                     </div>
@@ -93,7 +93,7 @@ else
         <div class="row g-5 py-1">
             <div class="col-md-12">
                 <div class="collapse multi-collapse" id="@($"word{word.PositionInCollection}Spelling")">
-                    <div class="card card-body shadow p-3 mb-1 bg-light rounded">
+                    <div class="card card-body shadow p-4 mb-1 bg-light rounded">
                         <h1 class="card-title text-center">@word.Text</h1>
                     </div>
                 </div>
