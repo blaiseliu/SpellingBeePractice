@@ -1,0 +1,5317 @@
+﻿[
+  {
+    "text": "bozzetto",
+    "positionInCollection": 1,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "coiffure",
+    "positionInCollection": 2,
+    "dictionaryEntry": {
+      "word": "coiffure",
+      "phonetic": "kwɑːˈfjʊə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a person's hairstyle.",
+              "example": "Diana's intricately braided coiffure",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "mid 17th century: French, from coiffer ‘arrange the hair’, in Old French‘cover with a coif’ (see coif).",
+      "phonetics": [
+        {
+          "text": "kwɑːˈfjʊə",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/coiffure--_gb_1.mp3"
+        },
+        {
+          "text": "kwɒˈfjʊə",
+          "audio": null
+        }
+      ]
+    }
+  },
+  {
+    "text": "repartee",
+    "positionInCollection": 3,
+    "dictionaryEntry": {
+      "word": "repartee",
+      "phonetic": "ˌrɛpɑːˈtiː",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "conversation or speech characterized by quick, witty comments or replies.",
+              "example": "he had a quick mind and a splendid gift of repartee",
+              "synonyms": [
+                "banter",
+                "badinage",
+                "witty conversation",
+                "bantering",
+                "raillery",
+                "witticism",
+                "crosstalk",
+                "wordplay",
+                "patter",
+                "witty remarks",
+                "witticisms",
+                "ripostes",
+                "sallies",
+                "quips",
+                "joking",
+                "jesting",
+                "teasing",
+                "chaff",
+                "chaffing",
+                "drollery",
+                "bons mots",
+                "persiflage"
+              ],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "mid 17th century: from French repartie ‘replied promptly’, feminine past participle of repartir, from re- ‘again’ + partir ‘set off’.",
+      "phonetics": [
+        {
+          "text": "ˌrɛpɑːˈtiː",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/repartee--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "chimera OR *chimaera",
+    "positionInCollection": 4,
+    "dictionaryEntry": {
+      "word": "chimera",
+      "phonetic": "kʌɪˈmɪərə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "(in Greek mythology) a fire-breathing female monster with a lion's head, a goat's body, and a serpent's tail.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "a thing which is hoped for but is illusory or impossible to achieve.",
+              "example": "the economic sovereignty you claim to defend is a chimera",
+              "synonyms": [
+                "illusion",
+                "fantasy",
+                "delusion",
+                "dream",
+                "fancy",
+                "figment of the imagination",
+                "will-o'-the-wisp",
+                "phantom",
+                "mirage",
+                "ignis fatuus"
+              ],
+              "antonyms": []
+            },
+            {
+              "definition": "an organism containing a mixture of genetically different tissues, formed by processes such as fusion of early embryos, grafting, or mutation.",
+              "example": "the sheeplike goat chimera",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "a cartilaginous marine fish with a long tail, an erect spine before the first dorsal fin, and typically a forward projection from the snout.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "late Middle English: via Latin from Greek khimaira ‘she-goat or chimera’.",
+      "phonetics": [
+        {
+          "text": "kʌɪˈmɪərə",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/chimera--_gb_1.mp3"
+        },
+        {
+          "text": "kɪˈmɪərə",
+          "audio": null
+        }
+      ]
+    }
+  },
+  {
+    "text": "avgolemono",
+    "positionInCollection": 5,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "exiguous",
+    "positionInCollection": 6,
+    "dictionaryEntry": {
+      "word": "exiguous",
+      "phonetic": "ɪɡˈzɪɡjʊəs",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "very small in size or amount.",
+              "example": "my exiguous musical resources",
+              "synonyms": [
+                "meagre",
+                "inadequate",
+                "insufficient",
+                "small",
+                "scant",
+                "scanty",
+                "paltry",
+                "negligible",
+                "limited",
+                "restricted",
+                "modest",
+                "sparse",
+                "spare",
+                "deficient",
+                "skimpy",
+                "short",
+                "little",
+                "miserable",
+                "pitiful",
+                "puny",
+                "miserly",
+                "niggardly",
+                "beggarly",
+                "measly",
+                "stingy",
+                "pathetic",
+                "piddling"
+              ],
+              "antonyms": [
+                "ample",
+                "generous"
+              ]
+            }
+          ]
+        }
+      ],
+      "origin": "mid 17th century: from Latin exiguus ‘scanty’ (from exigere ‘weigh exactly’) + -ous.",
+      "phonetics": [
+        {
+          "text": "ɪɡˈzɪɡjʊəs",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/exiguous--_gb_1.8.mp3"
+        },
+        {
+          "text": "ɛɡˈzɪɡjʊəs",
+          "audio": null
+        }
+      ]
+    }
+  },
+  {
+    "text": "presentient",
+    "positionInCollection": 7,
+    "dictionaryEntry": {
+      "word": "presentient",
+      "phonetic": "prɪˈsɛnʃ(ə)nt",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "having a presentiment.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "early 19th century: from Latin praesentient- ‘perceiving beforehand’, from the verb praesentire, from prae ‘before’ + sentire ‘to feel’.",
+      "phonetics": [
+        {
+          "text": "prɪˈsɛnʃ(ə)nt",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/presentient--_gb_1.8.mp3"
+        },
+        {
+          "text": "prɪˈzɛnʃ(ə)nt",
+          "audio": null
+        }
+      ]
+    }
+  },
+  {
+    "text": "renvoi",
+    "positionInCollection": 8,
+    "dictionaryEntry": {
+      "word": "renvoi",
+      "phonetic": "ˈrɒ̃vwʌ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "the action or process of referring a case or dispute to the jurisdiction of another country.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "late 19th century: French, from renvoyer ‘send back’.",
+      "phonetics": [
+        {
+          "text": "ˈrɒ̃vwʌ",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/renvoi--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "kichel",
+    "positionInCollection": 9,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "semaphore",
+    "positionInCollection": 10,
+    "dictionaryEntry": {
+      "word": "semaphore",
+      "phonetic": "ˈsɛməfɔː",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a system of sending messages by holding the arms or two flags or poles in certain positions according to an alphabetic code.",
+              "example": "if you learn semaphore or the Morse code, you'll have a fun way to send messages",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "definitions": [
+            {
+              "definition": "send (a message) by semaphore or by signals resembling semaphore.",
+              "example": "Josh stands facing the rear and semaphoring the driver's intentions to frustrated queues of following cars",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "early 19th century (denoting a signalling apparatus): from French sémaphore, formed irregularly from Greek sēma ‘sign’ + -phoros .",
+      "phonetics": [
+        {
+          "text": "ˈsɛməfɔː",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/semaphore--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "gambol",
+    "positionInCollection": 11,
+    "dictionaryEntry": {
+      "word": "gambol",
+      "phonetic": "ˈɡamb(ə)l",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "definitions": [
+            {
+              "definition": "run or jump about playfully.",
+              "example": "the mare gambolled towards her",
+              "synonyms": [
+                "frolic",
+                "frisk",
+                "cavort",
+                "caper",
+                "skip",
+                "dance",
+                "romp",
+                "prance",
+                "leap",
+                "hop",
+                "jump",
+                "spring",
+                "bound",
+                "bounce",
+                "play",
+                "sport",
+                "rollick",
+                "curvet",
+                "capriole"
+              ],
+              "antonyms": []
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "an act of running or jumping about playfully.",
+              "example": "the two of them run off to the woods for a gambol together",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "early 16th century: alteration of gambade (see gambado1), via French from Italian gambata ‘trip up’, from gamba ‘leg’.",
+      "phonetics": [
+        {
+          "text": "ˈɡamb(ə)l",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/gambol--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "angiitis",
+    "positionInCollection": 12,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "Teutonic",
+    "positionInCollection": 13,
+    "dictionaryEntry": {
+      "word": "Teutonic",
+      "phonetic": "tjuːˈtɒnɪk",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "relating to the Teutons.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "denoting the Germanic branch of the Indo-European language family.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "the language of the Teutons.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": null,
+      "phonetics": [
+        {
+          "text": "tjuːˈtɒnɪk",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/teutonic--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "Conestoga",
+    "positionInCollection": 14,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "zeitgeist",
+    "positionInCollection": 15,
+    "dictionaryEntry": {
+      "word": "zeitgeist",
+      "phonetic": "ˈzʌɪtɡʌɪst",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "the defining spirit or mood of a particular period of history as shown by the ideas and beliefs of the time.",
+              "example": "the story captured the zeitgeist of the late 1960s",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "mid 19th century: from German Zeitgeist, from Zeit ‘time’ + Geist ‘spirit’.",
+      "phonetics": [
+        {
+          "text": "ˈzʌɪtɡʌɪst",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/zeitgeist--_gb_2.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "heinousness",
+    "positionInCollection": 16,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "nacelle",
+    "positionInCollection": 17,
+    "dictionaryEntry": {
+      "word": "nacelle",
+      "phonetic": "nəˈsɛl",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a streamlined casing on the outside of an aircraft or motor vehicle, especially one housing an aircraft engine.",
+              "example": "a grey aircraft with NAVY painted on the engine nacelles",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "early 20th century (originally denoting the car of an airship): from French, from late Latin navicella, diminutive of Latin navis ‘ship’.",
+      "phonetics": [
+        {
+          "text": "nəˈsɛl",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/nacelle--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "rupicolous",
+    "positionInCollection": 18,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "Pythagorean",
+    "positionInCollection": 19,
+    "dictionaryEntry": {
+      "word": "Pythagorean",
+      "phonetic": "pʌɪˌθaɡəˈriːən",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "relating to or characteristic of the Greek philosopher Pythagoras or his ideas.",
+              "example": "the Pythagorean doctrine of the transmigration of souls",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a person who supports the theories of the Greek philosopher Pythagoras.",
+              "example": "the early Pythagoreans represented numbers by means of dots arranged in certain patterns",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": null,
+      "phonetics": [
+        {
+          "text": "pʌɪˌθaɡəˈriːən",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/pythagorean--1_gb_3.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "kepi",
+    "positionInCollection": 20,
+    "dictionaryEntry": {
+      "word": "kepi",
+      "phonetic": "ˈkɛpi",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a French military cap with a horizontal peak.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "mid 19th century: from French képi, from Swiss German Käppi, diminutive of Kappe ‘cap’.",
+      "phonetics": [
+        {
+          "text": "ˈkɛpi",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/kepi--_gb_2.mp3"
+        },
+        {
+          "text": "ˈkeɪpi",
+          "audio": null
+        }
+      ]
+    }
+  },
+  {
+    "text": "**bulgur OR bulghur",
+    "positionInCollection": 21,
+    "dictionaryEntry": {
+      "word": "bulgar",
+      "phonetic": "ˈbʌlɡə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a cereal food made from whole wheat partially boiled then dried, eaten especially in Turkey.",
+              "example": "bulgar wheat",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "1930s: from Turkish bulgur ‘bruised grain’.",
+      "phonetics": [
+        {
+          "text": "ˈbʌlɡə",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/bulgar--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "ushabti",
+    "positionInCollection": 22,
+    "dictionaryEntry": {
+      "word": "ushabti",
+      "phonetic": "ʊˈʃabti",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "variant form of shabti.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": null,
+      "phonetics": [
+        {
+          "text": "ʊˈʃabti",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/ushabti--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "puchero",
+    "positionInCollection": 23,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "nival",
+    "positionInCollection": 24,
+    "dictionaryEntry": {
+      "word": "nival",
+      "phonetic": "ˈnʌɪv(ə)l",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "relating to or characteristic of a region of perpetual snow.",
+              "example": "the nival zone, the area above about 2,000 metres",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "mid 17th century: from Latin nivalis, from nix, niv- ‘snow’.",
+      "phonetics": [
+        {
+          "text": "ˈnʌɪv(ə)l",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/nival--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "ascites",
+    "positionInCollection": 25,
+    "dictionaryEntry": {
+      "word": "ascites",
+      "phonetic": "əˈsʌɪtiːz",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "the accumulation of fluid in the peritoneal cavity, causing abdominal swelling.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "late Middle English: via late Latin from Greek askitēs, from askos ‘wineskin’.",
+      "phonetics": [
+        {
+          "text": "əˈsʌɪtiːz",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/ascites--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "Véronique",
+    "positionInCollection": 26,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "planetesimal",
+    "positionInCollection": 27,
+    "dictionaryEntry": {
+      "word": "planetesimal",
+      "phonetic": "ˌplanɪˈtɛsɪm(ə)l",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a minute planet; a body which could come together with many others under gravitation to form a planet.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "denoting or relating to planetesimals.",
+              "example": "the planetesimal material orbiting the sun",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "early 20th century: from planet, on the pattern of infinitesimal .",
+      "phonetics": [
+        {
+          "text": "ˌplanɪˈtɛsɪm(ə)l",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/planetesimal--_gb_1.8.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "taoiseach",
+    "positionInCollection": 28,
+    "dictionaryEntry": {
+      "word": "Taoiseach",
+      "phonetic": "ˈtiːʃəx",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "the prime minister of the Republic of Ireland.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "Irish, literally ‘chief, leader’.",
+      "phonetics": [
+        {
+          "text": "ˈtiːʃəx",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/taoiseach--_gb_1.mp3"
+        },
+        {
+          "text": "Irish ˈtiːsʲəx",
+          "audio": null
+        }
+      ]
+    }
+  },
+  {
+    "text": "obeisant",
+    "positionInCollection": 29,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "whippoorwill",
+    "positionInCollection": 30,
+    "dictionaryEntry": {
+      "word": "whippoorwill",
+      "phonetic": "ˈwɪpəwɪl",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a North and Central American nightjar with a distinctive call.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "early 18th century: imitative of its call.",
+      "phonetics": [
+        {
+          "text": "ˈwɪpəwɪl",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/whippoorwill--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "Ficus",
+    "positionInCollection": 31,
+    "dictionaryEntry": {
+      "word": "ficus",
+      "phonetic": "ˈfiːkəs",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a tree, shrub, or climber of a large genus that includes the figs and the rubber plant, growing in tropical and warm climates.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "mid 19th century: from Latin, ‘fig, fig tree’.",
+      "phonetics": [
+        {
+          "text": "ˈfiːkəs",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/ficus--_gb_1.8.mp3"
+        },
+        {
+          "text": "ˈfʌɪkəs",
+          "audio": null
+        }
+      ]
+    }
+  },
+  {
+    "text": "agelicism",
+    "positionInCollection": 32,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "subrident",
+    "positionInCollection": 33,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "ethylene",
+    "positionInCollection": 34,
+    "dictionaryEntry": {
+      "word": "ethylene",
+      "phonetic": "ˈɛθɪliːn",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a flammable hydrocarbon gas of the alkene series, occurring in natural gas, coal gas, and crude oil and given off by ripening fruit. It is used in chemical synthesis, especially in the manufacture of polythene.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": null,
+      "phonetics": [
+        {
+          "text": "ˈɛθɪliːn",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/ethylene--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "flaneur",
+    "positionInCollection": 35,
+    "dictionaryEntry": {
+      "word": "flâneur",
+      "phonetic": "flaˈnəː",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a man who saunters around observing society.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "French, from flâner ‘saunter, lounge’.",
+      "phonetics": [
+        {
+          "text": "flaˈnəː",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/flaneur--1_gb_1.mp3"
+        },
+        {
+          "text": "French flanœʀ",
+          "audio": null
+        }
+      ]
+    }
+  },
+  {
+    "text": "Ponzi",
+    "positionInCollection": 36,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "teneramente",
+    "positionInCollection": 37,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "styptic",
+    "positionInCollection": 38,
+    "dictionaryEntry": {
+      "word": "styptic",
+      "phonetic": "ˈstɪptɪk",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "(of a substance) capable of causing bleeding to stop when it is applied to a wound.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a styptic substance.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "late Middle English: via Latin from Greek stuptikos, from stuphein ‘to contract’.",
+      "phonetics": [
+        {
+          "text": "ˈstɪptɪk",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/styptic--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "sopapilla",
+    "positionInCollection": 39,
+    "dictionaryEntry": {
+      "word": "sopaipilla",
+      "phonetic": "ˌsɒpʌɪˈpiːjə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "(especially in New Mexico) a deep-fried pastry eaten with honey or sugar or as a bread.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "American Spanish, diminutive of Spanish ‘sopaipa’ denoting a kind of sweet fritter.",
+      "phonetics": [
+        {
+          "text": "ˌsɒpʌɪˈpiːjə",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/sopaipilla--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "nictitate",
+    "positionInCollection": 40,
+    "dictionaryEntry": {
+      "word": "nictate",
+      "phonetic": "nɪkˈteɪt",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "definitions": [
+            {
+              "definition": "blink.",
+              "example": "the lid of her left eye began to nictate",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "late 17th century: from Latin nictat- ‘blinked’, from the verb nictare ‘to blink’. The variant nictitate is from the medieval Latin frequentative of nictare .",
+      "phonetics": [
+        {
+          "text": "nɪkˈteɪt",
+          "audio": null
+        }
+      ]
+    }
+  },
+  {
+    "text": "boutade",
+    "positionInCollection": 41,
+    "dictionaryEntry": {
+      "word": "boutade",
+      "phonetic": "buːˈtɑːd",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a sudden outburst or outbreak.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "early 17th century: French, from bouter ‘to thrust’.",
+      "phonetics": [
+        {
+          "text": "buːˈtɑːd",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/boutade--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "towhee",
+    "positionInCollection": 42,
+    "dictionaryEntry": {
+      "word": "towhee",
+      "phonetic": "ˈtəʊ(h)iː",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a North American songbird of the bunting family, typically with brownish plumage but sometimes black and rufous.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "mid 18th century: imitative of the call of Pipilo erythrophthalmus .",
+      "phonetics": [
+        {
+          "text": "ˈtəʊ(h)iː",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/towhee--_gb_1.8.mp3"
+        },
+        {
+          "text": "ˈtaʊ(h)iː",
+          "audio": null
+        }
+      ]
+    }
+  },
+  {
+    "text": "escritoire",
+    "positionInCollection": 43,
+    "dictionaryEntry": {
+      "word": "escritoire",
+      "phonetic": "ˌɛskriːˈtwɑː",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a small writing desk with drawers and compartments.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "late 16th century: from French, from medieval Latin scriptorium ‘writing room’ (see scriptorium).",
+      "phonetics": [
+        {
+          "text": "ˌɛskriːˈtwɑː",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/escritoire--_gb_1.8.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "affenpinscher",
+    "positionInCollection": 44,
+    "dictionaryEntry": {
+      "word": "Affenpinscher",
+      "phonetic": "ˈafənˌpɪnʃə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a dog of a small breed resembling the griffon.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "German, from Affe ‘monkey’ + Pinscher ‘terrier’.",
+      "phonetics": [
+        {
+          "text": "ˈafənˌpɪnʃə",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/affenpinscher--_gb_1.8.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "gudgeon",
+    "positionInCollection": 45,
+    "dictionaryEntry": {
+      "word": "gudgeon",
+      "phonetic": "ˈɡʌdʒ(ə)n",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a small edible European freshwater fish, often used as bait by anglers.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "a credulous or easily fooled person.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "late Middle English: from Old French goujon, from Latin gobio(n- ), from gobius ‘goby’.",
+      "phonetics": [
+        {
+          "text": "ˈɡʌdʒ(ə)n",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/gudgeon--_gb_1.8.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "beaumontage",
+    "positionInCollection": 46,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "galoot",
+    "positionInCollection": 47,
+    "dictionaryEntry": {
+      "word": "galoot",
+      "phonetic": "ɡəˈluːt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a clumsy or stupid person (often as a term of abuse).",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "early 19th century (originally in nautical use meaning ‘an inexperienced marine’): of unknown origin.",
+      "phonetics": [
+        {
+          "text": "ɡəˈluːt",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/galoot--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "desiccate",
+    "positionInCollection": 48,
+    "dictionaryEntry": {
+      "word": "desiccate",
+      "phonetic": "ˈdɛsɪkeɪt",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "definitions": [
+            {
+              "definition": "remove the moisture from (something); cause to become completely dry.",
+              "example": "both the older growth and the new vegetation were desiccated by months of relentless sun",
+              "synonyms": [
+                "dried",
+                "dried up",
+                "dry",
+                "dehydrated",
+                "powdered"
+              ],
+              "antonyms": [
+                "moist"
+              ]
+            }
+          ]
+        }
+      ],
+      "origin": "late 16th century: from Latin desiccat- ‘made thoroughly dry’, from the verb desiccare .",
+      "phonetics": [
+        {
+          "text": "ˈdɛsɪkeɪt",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/desiccate--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "aporia",
+    "positionInCollection": 49,
+    "dictionaryEntry": {
+      "word": "aporia",
+      "phonetic": "əˈpɔːrɪə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "an irresolvable internal contradiction or logical disjunction in a text, argument, or theory.",
+              "example": "the celebrated aporia whereby a Cretan declares all Cretans to be liars",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "mid 16th century: via late Latin from Greek, from aporos ‘impassable’, from a- ‘without’ + poros ‘passage’.",
+      "phonetics": [
+        {
+          "text": "əˈpɔːrɪə",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/aporia--_gb_1.mp3"
+        },
+        {
+          "text": "əˈpɒrɪə",
+          "audio": null
+        }
+      ]
+    }
+  },
+  {
+    "text": "moraine",
+    "positionInCollection": 50,
+    "dictionaryEntry": {
+      "word": "moraine",
+      "phonetic": "məˈreɪn",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a mass of rocks and sediment carried down and deposited by a glacier, typically as ridges at its edges or extremity.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "late 18th century: from French, from Italian dialect morena, from French dialect morre ‘snout’; related to morion1.",
+      "phonetics": [
+        {
+          "text": "məˈreɪn",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/moraine--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "hirsute",
+    "positionInCollection": 51,
+    "dictionaryEntry": {
+      "word": "hirsute",
+      "phonetic": "ˈhəːsjuːt",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "hairy.",
+              "example": "their hirsute chests",
+              "synonyms": [
+                "hairy",
+                "shaggy",
+                "bushy",
+                "hair-covered",
+                "long-haired",
+                "woolly",
+                "furry",
+                "fleecy",
+                "fuzzy",
+                "bearded",
+                "unshaven",
+                "unshorn",
+                "bewhiskered",
+                "stubbly",
+                "bristly",
+                "pilose",
+                "pileous",
+                "pappose",
+                "hispid",
+                "crinite",
+                "crinigerous"
+              ],
+              "antonyms": [
+                "hairless",
+                "short-haired"
+              ]
+            }
+          ]
+        }
+      ],
+      "origin": "early 17th century: from Latin hirsutus .",
+      "phonetics": [
+        {
+          "text": "ˈhəːsjuːt",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/hirsute--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "shubunkin",
+    "positionInCollection": 52,
+    "dictionaryEntry": {
+      "word": "shubunkin",
+      "phonetic": "ʃʊˈbʌŋkɪn",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a goldfish of an ornamental variety, having black spots, red patches, and long fins and tail.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "early 20th century: from Japanese.",
+      "phonetics": [
+        {
+          "text": "ʃʊˈbʌŋkɪn",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/shubunkin--_gb_1.8.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "hepatectomy",
+    "positionInCollection": 53,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "bloviate",
+    "positionInCollection": 54,
+    "dictionaryEntry": {
+      "word": "bloviate",
+      "phonetic": "ˈbləʊvɪeɪt",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "definitions": [
+            {
+              "definition": "talk at length, especially in an inflated or empty way.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "mid 19th century: perhaps from blow1.",
+      "phonetics": [
+        {
+          "text": "ˈbləʊvɪeɪt",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/bloviate--_gb_2.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "seine",
+    "positionInCollection": 55,
+    "dictionaryEntry": {
+      "word": "seine",
+      "phonetic": "seɪn",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a fishing net which hangs vertically in the water with floats at the top and weights at the bottom edge, the ends being drawn together to encircle the fish.",
+              "example": "a seine boat",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "definitions": [
+            {
+              "definition": "fish (an area) with a seine.",
+              "example": "the fishermen then seine the weir",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "Old English segne, of West Germanic origin, via Latin from Greek sagēnē ; reinforced in Middle English by Old French saine .",
+      "phonetics": [
+        {
+          "text": "seɪn",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/seine--1_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "galapago",
+    "positionInCollection": 56,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "au courant",
+    "positionInCollection": 57,
+    "dictionaryEntry": {
+      "word": "au courant",
+      "phonetic": "ˌəʊ kʊˈrɒ̃",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "aware of what is going on; well informed.",
+              "example": "they were au courant with the literary scene",
+              "synonyms": [
+                "up to date",
+                "up with",
+                "in touch",
+                "familiar",
+                "at home",
+                "acquainted",
+                "conversant",
+                "abreast of",
+                "apprised of",
+                "in the know about",
+                "well informed about",
+                "knowledgeable about",
+                "well versed in",
+                "enlightened about",
+                "aware of",
+                "no stranger to",
+                "au fait",
+                "clued up about",
+                "genned up about",
+                "clued up on",
+                "well up on",
+                "plugged into",
+                "wise to",
+                "hip to",
+                "switched on to",
+                "down"
+              ],
+              "antonyms": [
+                "out of touch"
+              ]
+            }
+          ]
+        }
+      ],
+      "origin": "mid 18th century: from French, literally ‘in the (regular) course’.",
+      "phonetics": [
+        {
+          "text": "ˌəʊ kʊˈrɒ̃",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/au_courant--1_gb_1.8.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "crepuscular",
+    "positionInCollection": 58,
+    "dictionaryEntry": {
+      "word": "crepuscular",
+      "phonetic": "krɪˈpʌskjʊlə",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "resembling or relating to twilight.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "mid 17th century: from Latin crepusculum ‘twilight’ + -ar1.",
+      "phonetics": [
+        {
+          "text": "krɪˈpʌskjʊlə",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/crepuscular--_gb_1.8.mp3"
+        },
+        {
+          "text": "krɛˈpʌskjʊlə",
+          "audio": null
+        }
+      ]
+    }
+  },
+  {
+    "text": "theca",
+    "positionInCollection": 59,
+    "dictionaryEntry": {
+      "word": "theca",
+      "phonetic": "ˈθiːkə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "the loose sheath enclosing the spinal cord.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "a cuplike or tubular structure containing a coral polyp.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "either of the lobes of an anther, each containing two pollen sacs.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "early 17th century: via Latin from Greek thēkē ‘case’.",
+      "phonetics": [
+        {
+          "text": "ˈθiːkə",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/theca--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "croustade",
+    "positionInCollection": 60,
+    "dictionaryEntry": {
+      "word": "croustade",
+      "phonetic": "krʊˈstɑːd",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a crisp piece of bread or pastry hollowed to receive a savoury filling.",
+              "example": "we had mushroom croustade with a hazelnut topping",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "French, from Old French crouste or Italian crostata ‘tart’ (from crosta ‘crust’).",
+      "phonetics": [
+        {
+          "text": "krʊˈstɑːd",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/croustade--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "kipuka",
+    "positionInCollection": 61,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "noumenon",
+    "positionInCollection": 62,
+    "dictionaryEntry": {
+      "word": "noumenon",
+      "phonetic": "ˈnuːmənɒn",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "(in Kantian philosophy) a thing as it is in itself, as distinct from a thing as it is knowable by the senses through phenomenal attributes.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "late 18th century: via German from Greek, literally ‘(something) conceived’, from noein ‘conceive, apprehend’.",
+      "phonetics": [
+        {
+          "text": "ˈnuːmənɒn",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/noumenon--_gb_1.mp3"
+        },
+        {
+          "text": "ˈnaʊmənɒn",
+          "audio": null
+        }
+      ]
+    }
+  },
+  {
+    "text": "chicanery",
+    "positionInCollection": 63,
+    "dictionaryEntry": {
+      "word": "chicanery",
+      "phonetic": "ʃɪˈkeɪnəri",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "the use of deception or subterfuge to achieve one's purpose.",
+              "example": "storylines packed with political chicanery",
+              "synonyms": [
+                "trickery",
+                "deception",
+                "deceit",
+                "deceitfulness",
+                "duplicity",
+                "dishonesty",
+                "unscrupulousness",
+                "underhandedness",
+                "subterfuge",
+                "fraud",
+                "fraudulence",
+                "legerdemain",
+                "sophistry",
+                "sharp practice",
+                "skulduggery",
+                "swindling",
+                "cheating",
+                "duping",
+                "hoodwinking",
+                "deviousness",
+                "guile",
+                "intrigue",
+                "palace intrigue",
+                "craft",
+                "craftiness",
+                "artfulness",
+                "slyness",
+                "wiles",
+                "misleading talk",
+                "crookedness",
+                "monkey business",
+                "funny business",
+                "hanky-panky",
+                "shenanigans",
+                "flimflam",
+                "jiggery-pokery",
+                "monkeyshines",
+                "codology",
+                "management",
+                "knavery"
+              ],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "late 16th century: from French chicanerie, from chicaner ‘to quibble’ (see chicane).",
+      "phonetics": [
+        {
+          "text": "ʃɪˈkeɪnəri",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/chicanery--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "vilipend",
+    "positionInCollection": 64,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "vitiate",
+    "positionInCollection": 65,
+    "dictionaryEntry": {
+      "word": "vitiate",
+      "phonetic": "ˈvɪʃɪeɪt",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "definitions": [
+            {
+              "definition": "spoil or impair the quality or efficiency of.",
+              "example": "development programmes have been vitiated by the rise in population",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "mid 16th century: from Latin vitiat- ‘impaired’, from the verb vitiare, from vitium (see vice1).",
+      "phonetics": [
+        {
+          "text": "ˈvɪʃɪeɪt",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/vitiate--_gb_2.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "spodumene",
+    "positionInCollection": 66,
+    "dictionaryEntry": {
+      "word": "spodumene",
+      "phonetic": "ˈspɒdjʊmiːn",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a translucent, typically greyish-white aluminosilicate mineral which is an important source of lithium.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "early 19th century: from French spodumène, from Greek spodoumenos ‘burning to ashes’, present participle of spodousthai, from spodos ‘ashes’.",
+      "phonetics": [
+        {
+          "text": "ˈspɒdjʊmiːn",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/spodumene--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "leberwurst",
+    "positionInCollection": 67,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "daguerreotype",
+    "positionInCollection": 68,
+    "dictionaryEntry": {
+      "word": "daguerreotype",
+      "phonetic": "dəˈɡɛrətʌɪp",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a photograph taken by an early photographic process employing an iodine-sensitized silvered plate and mercury vapour.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "mid 19th century: from French daguerréotype, named after L.-J.-M. Daguerre (see Daguerre, Louis).",
+      "phonetics": [
+        {
+          "text": "dəˈɡɛrətʌɪp",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/daguerreotype--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "yakitori",
+    "positionInCollection": 69,
+    "dictionaryEntry": {
+      "word": "yakitori",
+      "phonetic": "ˌjakɪˈtɔːri",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a Japanese dish of chicken pieces grilled on a skewer.",
+              "example": "a yakitori bar",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "Japanese, from yaki ‘grilling, frying’ + tori ‘bird’.",
+      "phonetics": [
+        {
+          "text": "ˌjakɪˈtɔːri",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/yakitori--_gb_1.8.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "pejorate",
+    "positionInCollection": 70,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "Aitutakian",
+    "positionInCollection": 71,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "parterre",
+    "positionInCollection": 72,
+    "dictionaryEntry": {
+      "word": "parterre",
+      "phonetic": "pɑːˈtɛː",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a level space in a garden occupied by an ornamental arrangement of flower beds.",
+              "example": "he was planting bulbs in the parterre for a spring display",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "the part of the ground floor of a theatre auditorium behind the orchestra pit, especially the part beneath the balconies.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "early 17th century: from French, from par terre ‘on the ground’.",
+      "phonetics": [
+        {
+          "text": "pɑːˈtɛː",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/parterre--_gb_2.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "rondeau",
+    "positionInCollection": 73,
+    "dictionaryEntry": {
+      "word": "rondeau",
+      "phonetic": "ˈrɒndəʊ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a poem of ten or thirteen lines with only two rhymes throughout and with the opening words used twice as a refrain.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "early 16th century: French, later form of rondel (see rondel).",
+      "phonetics": [
+        {
+          "text": "ˈrɒndəʊ",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/rondeau--_gb_1.8.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "atlatl",
+    "positionInCollection": 74,
+    "dictionaryEntry": {
+      "word": "atlatl",
+      "phonetic": "ˈat(ə)lat(ə)l",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a stick used by some indigenous peoples of North America to propel a spear or dart.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "Nahuatl atlatl ‘spear-thrower’.",
+      "phonetics": [
+        {
+          "text": "ˈat(ə)lat(ə)l",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/atlatl--_gb_3.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "allochroous",
+    "positionInCollection": 75,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "ennui",
+    "positionInCollection": 76,
+    "dictionaryEntry": {
+      "word": "ennui",
+      "phonetic": "ɒnˈwiː",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a feeling of listlessness and dissatisfaction arising from a lack of occupation or excitement.",
+              "example": "he succumbed to ennui and despair",
+              "synonyms": [
+                "boredom",
+                "tedium",
+                "listlessness",
+                "lethargy",
+                "lassitude",
+                "languor",
+                "restlessness",
+                "weariness",
+                "sluggishness",
+                "enervation",
+                "malaise",
+                "dissatisfaction",
+                "unhappiness",
+                "uneasiness",
+                "unease",
+                "melancholy",
+                "depression",
+                "despondency",
+                "dejection",
+                "disquiet",
+                "Weltschmerz"
+              ],
+              "antonyms": [
+                "animation",
+                "contentment"
+              ]
+            }
+          ]
+        }
+      ],
+      "origin": "mid 18th century: French, from Latin in odio(n- ), from mihi in odio est ‘it is hateful to me’. Compare with annoy.",
+      "phonetics": [
+        {
+          "text": "ɒnˈwiː",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/ennui--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "caisson",
+    "positionInCollection": 77,
+    "dictionaryEntry": {
+      "word": "caisson",
+      "phonetic": "ˈkeɪs(ə)n",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a large watertight chamber, open at the bottom, from which the water is kept out by air pressure and in which construction work may be carried out under water.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "a chest or wagon for holding or conveying ammunition.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "late 17th century: from French, literally ‘large chest’, from Italian cassone, the spelling having been altered in French by association with caisse ‘case’.",
+      "phonetics": [
+        {
+          "text": "ˈkeɪs(ə)n",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/caisson--_gb_1.8.mp3"
+        },
+        {
+          "text": "kəˈsuːn",
+          "audio": null
+        }
+      ]
+    }
+  },
+  {
+    "text": "cheongsam",
+    "positionInCollection": 78,
+    "dictionaryEntry": {
+      "word": "cheongsam",
+      "phonetic": "tʃɪɒŋˈsam",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a straight, close-fitting silk dress with a high neck and slit skirt, worn by Chinese and Indonesian women.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "Chinese (Cantonese dialect).",
+      "phonetics": [
+        {
+          "text": "tʃɪɒŋˈsam",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/cheongsam--_gb_2.mp3"
+        },
+        {
+          "text": "tʃɒŋˈsam",
+          "audio": null
+        }
+      ]
+    }
+  },
+  {
+    "text": "graticule",
+    "positionInCollection": 79,
+    "dictionaryEntry": {
+      "word": "graticule",
+      "phonetic": "ˈɡratɪkjuːl",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a network of lines representing meridians and parallels, on which a map or plan can be represented.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "late 19th century: from French, from medieval Latin graticula ‘a little grating’, from Latin craticula ‘gridiron’, diminutive of cratis ‘hurdle’.",
+      "phonetics": [
+        {
+          "text": "ˈɡratɪkjuːl",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/graticule--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "gyascutus",
+    "positionInCollection": 80,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "cygnet",
+    "positionInCollection": 81,
+    "dictionaryEntry": {
+      "word": "cygnet",
+      "phonetic": "ˈsɪɡnɪt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a young swan.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "late Middle English: from Anglo-Norman French cignet, diminutive of Old French cigne ‘swan’, based on Latin cycnus, from Greek kuknos .",
+      "phonetics": [
+        {
+          "text": "ˈsɪɡnɪt",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/cygnet--_gb_2.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "supercilious",
+    "positionInCollection": 82,
+    "dictionaryEntry": {
+      "word": "supercilious",
+      "phonetic": "suːpəˈsɪlɪəs",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "behaving or looking as though one thinks one is superior to others.",
+              "example": "a supercilious lady's maid",
+              "synonyms": [
+                "arrogant",
+                "haughty",
+                "conceited",
+                "disdainful",
+                "overbearing",
+                "pompous",
+                "condescending",
+                "superior",
+                "patronizing",
+                "imperious",
+                "proud",
+                "lofty",
+                "lordly",
+                "snobbish",
+                "snobby",
+                "overweening",
+                "smug",
+                "pretentious",
+                "affected",
+                "scornful",
+                "mocking",
+                "sneering",
+                "scoffing",
+                "hoity-toity",
+                "high and mighty",
+                "uppity",
+                "snooty",
+                "stuck-up",
+                "fancy-pants",
+                "toffee-nosed",
+                "snotty",
+                "jumped up",
+                "too big for one's boots"
+              ],
+              "antonyms": [
+                "humble",
+                "modest"
+              ]
+            }
+          ]
+        }
+      ],
+      "origin": "early 16th century: from Latin superciliosus ‘haughty’, from supercilium ‘eyebrow’.",
+      "phonetics": [
+        {
+          "text": "suːpəˈsɪlɪəs",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/supercilious--_gb_1.8.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "dysphasia",
+    "positionInCollection": 83,
+    "dictionaryEntry": {
+      "word": "dysphasia",
+      "phonetic": "dɪsˈfeɪzɪə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "language disorder marked by deficiency in the generation of speech, and sometimes also in its comprehension, due to brain disease or damage.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "late 19th century: from Greek dusphatos ‘hard to utter’, from dus- ‘difficult’ + phatos ‘spoken’.",
+      "phonetics": [
+        {
+          "text": "dɪsˈfeɪzɪə",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/dysphasia--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "kugel",
+    "positionInCollection": 84,
+    "dictionaryEntry": {
+      "word": "kugel",
+      "phonetic": "ˈkuːɡ(ə)l",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "(in Jewish cooking) a kind of savoury pudding of potatoes or other vegetables.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "a spoilt and materialistic young woman, typically Jewish, with a distinctive nasal accent.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "Yiddish, literally ‘ball’.",
+      "phonetics": [
+        {
+          "text": "ˈkuːɡ(ə)l",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/kugel--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "topazolite",
+    "positionInCollection": 85,
+    "dictionaryEntry": {
+      "word": "topazolite",
+      "phonetic": "tə(ʊ)ˈpazəlʌɪt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a variety of andradite (garnet) that is yellowish green.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "early 19th century: from topaz + -lite.",
+      "phonetics": [
+        {
+          "text": "tə(ʊ)ˈpazəlʌɪt",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/topazolite--_gb_1.8.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "trompe l’oeil",
+    "positionInCollection": 86,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "ailette",
+    "positionInCollection": 87,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "fetticus",
+    "positionInCollection": 88,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "rocaille",
+    "positionInCollection": 89,
+    "dictionaryEntry": {
+      "word": "rocaille",
+      "phonetic": "rə(ʊ)ˈkʌɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "an 18th-century artistic or architectural style of decoration characterized by elaborate ornamentation with pebbles and shells, typical of grottos and fountains.",
+              "example": "a room with walls in rocaille like those of fountains in a park",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "a tiny ornamental bead.",
+              "example": "rocailles are available in a range of opaque colours",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "French, from roc ‘rock’.",
+      "phonetics": [
+        {
+          "text": "rə(ʊ)ˈkʌɪ",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/rocaille--_gb_2.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "couverture",
+    "positionInCollection": 90,
+    "dictionaryEntry": {
+      "word": "couverture",
+      "phonetic": "ˈkuːvətjʊə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "chocolate made with extra cocoa butter to give a high gloss, used for covering sweets and cakes.",
+              "example": "the finest Belgian couverture",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "1930s: French, literally ‘covering’, from couvrir ‘to cover’.",
+      "phonetics": [
+        {
+          "text": "ˈkuːvətjʊə",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/couverture--_gb_4.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "lemniscus",
+    "positionInCollection": 91,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "ad nauseam",
+    "positionInCollection": 92,
+    "dictionaryEntry": {
+      "word": "ad nauseam",
+      "phonetic": "ad ˈnɔːzɪam",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "definitions": [
+            {
+              "definition": "used to refer to the fact that something has been done or repeated so often that it has become annoying or tiresome.",
+              "example": "the phrase he repeated ad nauseam",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "Latin, literally ‘to sickness’.",
+      "phonetics": [
+        {
+          "text": "ad ˈnɔːzɪam",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/ad_nauseam--1_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "ganache",
+    "positionInCollection": 93,
+    "dictionaryEntry": {
+      "word": "ganache",
+      "phonetic": "ɡəˈnaʃ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a whipped filling of chocolate and cream, used in confectioneries such as cakes and truffles.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "French.",
+      "phonetics": [
+        {
+          "text": "ɡəˈnaʃ",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/ganache--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "sauger",
+    "positionInCollection": 94,
+    "dictionaryEntry": {
+      "word": "sauger",
+      "phonetic": "ˈsɔːɡə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a slender North American pikeperch with silver eyes, which is active at twilight and at night.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "late 19th century: of unknown origin.",
+      "phonetics": [
+        {
+          "text": "ˈsɔːɡə",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/sauger--_gb_2.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "kanban",
+    "positionInCollection": 95,
+    "dictionaryEntry": {
+      "word": "kanban",
+      "phonetic": "ˈkanban",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a Japanese manufacturing system in which the supply of components is regulated through the use of an instruction card sent along the production line.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "1970s: Japanese, literally ‘billboard, sign’.",
+      "phonetics": [
+        {
+          "text": "ˈkanban",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/kanban--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "toccata",
+    "positionInCollection": 96,
+    "dictionaryEntry": {
+      "word": "toccata",
+      "phonetic": "təˈkɑːtə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a musical composition for a keyboard instrument designed to exhibit the performer's touch and technique.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "early 18th century: from Italian, feminine past participle of toccare ‘to touch’.",
+      "phonetics": [
+        {
+          "text": "təˈkɑːtə",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/toccata--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "pertinacity",
+    "positionInCollection": 97,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "gasthaus",
+    "positionInCollection": 98,
+    "dictionaryEntry": {
+      "word": "Gasthaus",
+      "phonetic": "ˈɡasthaʊs",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a small inn or hotel in a German-speaking country or region.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "from German, from Gast ‘guest’ + Haus ‘house’.",
+      "phonetics": [
+        {
+          "text": "ˈɡasthaʊs",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/gasthaus--1_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "transmontane",
+    "positionInCollection": 99,
+    "dictionaryEntry": {
+      "word": "transmontane",
+      "phonetic": "tranzˈmɒnteɪn",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "another term for tramontane.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": null,
+      "phonetics": [
+        {
+          "text": "tranzˈmɒnteɪn",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/transmontane--_gb_5.mp3"
+        },
+        {
+          "text": "trɑːnzˈmɒnteɪn",
+          "audio": null
+        },
+        {
+          "text": "transˈmɒnteɪn",
+          "audio": null
+        },
+        {
+          "text": "trɑːnsˈmɒnteɪn",
+          "audio": null
+        },
+        {
+          "text": "ˌtranzmɒnˈteɪn",
+          "audio": null
+        },
+        {
+          "text": "ˌtrɑːnzmɒnˈteɪn",
+          "audio": null
+        },
+        {
+          "text": "ˌtransmɒnˈteɪn",
+          "audio": null
+        },
+        {
+          "text": "ˌtrɑːnsmɒnˈteɪn",
+          "audio": null
+        }
+      ]
+    }
+  },
+  {
+    "text": "laterigrade",
+    "positionInCollection": 100,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "hyssop",
+    "positionInCollection": 101,
+    "dictionaryEntry": {
+      "word": "hyssop",
+      "phonetic": "ˈhɪsəp",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a small bushy aromatic plant of the mint family, the bitter minty leaves of which are used in cooking and herbal medicine.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "(in biblical use) a wild shrub of uncertain identity whose twigs were used for sprinkling in ancient Jewish rites of purification.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "Old English hysope (reinforced in Middle English by Old French ysope ), via Latin from Greek hyssōpos, of Semitic origin.",
+      "phonetics": [
+        {
+          "text": "ˈhɪsəp",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/hyssop--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "naumachia",
+    "positionInCollection": 102,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "focaccia",
+    "positionInCollection": 103,
+    "dictionaryEntry": {
+      "word": "focaccia",
+      "phonetic": "fəˈkatʃə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a type of flat Italian bread made with yeast and olive oil and flavoured with herbs.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "Italian.",
+      "phonetics": [
+        {
+          "text": "fəˈkatʃə",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/focaccia--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "pahoehoe",
+    "positionInCollection": 104,
+    "dictionaryEntry": {
+      "word": "pahoehoe",
+      "phonetic": "pəˈhəʊɪhəʊi",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "basaltic lava forming smooth undulating or ropy masses.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "mid 19th century: from Hawaiian.",
+      "phonetics": [
+        {
+          "text": "pəˈhəʊɪhəʊi",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/pahoehoe--_gb_1.8.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "Kjeldahl",
+    "positionInCollection": 105,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "rubefacient",
+    "positionInCollection": 106,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "halcyon",
+    "positionInCollection": 107,
+    "dictionaryEntry": {
+      "word": "halcyon",
+      "phonetic": "ˈhalsɪən",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "denoting a period of time in the past that was idyllically happy and peaceful.",
+              "example": "the halcyon days of the mid 1980s, when profits were soaring",
+              "synonyms": [
+                "serene",
+                "calm",
+                "pleasant",
+                "balmy",
+                "tranquil",
+                "peaceful",
+                "temperate",
+                "mild",
+                "quiet",
+                "gentle",
+                "placid",
+                "still",
+                "windless",
+                "stormless",
+                "happy",
+                "carefree",
+                "blissful",
+                "golden",
+                "joyful",
+                "joyous",
+                "contented",
+                "idyllic",
+                "palmy",
+                "flourishing",
+                "thriving",
+                "prosperous",
+                "successful"
+              ],
+              "antonyms": [
+                "stormy",
+                "troubled"
+              ]
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a mythical bird said by ancient writers to breed in a nest floating at sea at the winter solstice, charming the wind and waves into calm.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "a tropical Asian and African kingfisher with brightly coloured plumage.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "late Middle English (in the mythological sense): via Latin from Greek alkuōn ‘kingfisher’ (also halkuōn, by association with hals ‘sea’ and kuōn ‘conceiving’).",
+      "phonetics": [
+        {
+          "text": "ˈhalsɪən",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/halcyon--_gb_1.8.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "corrigenda",
+    "positionInCollection": 108,
+    "dictionaryEntry": {
+      "word": "corrigendum",
+      "phonetic": "ˌkɒrɪˈdʒɛndəm",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a thing to be corrected, typically an error in a printed book.",
+              "example": "the 1980-84 cumulation contains corrigenda which are not included in the annual volumes",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "early 19th century: Latin, neuter gerundive of corrigere ‘bring into order’ (see correct).",
+      "phonetics": [
+        {
+          "text": "ˌkɒrɪˈdʒɛndəm",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/corrigendum--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "Zanni",
+    "positionInCollection": 109,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "nonage",
+    "positionInCollection": 110,
+    "dictionaryEntry": {
+      "word": "nonage",
+      "phonetic": "ˈnəʊnɪdʒ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "the period of a person's immaturity or youth.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "late Middle English: from Old French nonage, from non- ‘non-’ + age ‘age’.",
+      "phonetics": [
+        {
+          "text": "ˈnəʊnɪdʒ",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/nonage--_gb_1.mp3"
+        },
+        {
+          "text": "ˈnɒnɪdʒ",
+          "audio": null
+        }
+      ]
+    }
+  },
+  {
+    "text": "beurre",
+    "positionInCollection": 111,
+    "dictionaryEntry": {
+      "word": "beurré",
+      "phonetic": "ˈbjʊəri",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a class of pear of a mellow variety.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "early 18th century: French, literally ‘buttered, buttery’.",
+      "phonetics": [
+        {
+          "text": "ˈbjʊəri",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/beurre--1_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "jicama",
+    "positionInCollection": 112,
+    "dictionaryEntry": {
+      "word": "jicama",
+      "phonetic": "ˈhiːkəma",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "the crisp white-fleshed edible tuber of the yam bean, used especially in Mexican cooking.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "early 17th century: from Mexican Spanish jícama, from Nahuatl xicama .",
+      "phonetics": [
+        {
+          "text": "ˈhiːkəma",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/jicama--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "sturnine",
+    "positionInCollection": 113,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "octonocular",
+    "positionInCollection": 114,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "parallax",
+    "positionInCollection": 115,
+    "dictionaryEntry": {
+      "word": "parallax",
+      "phonetic": "ˈparəlaks",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "the effect whereby the position or direction of an object appears to differ when viewed from different positions, e.g. through the viewfinder and the lens of a camera.",
+              "example": "what you see in the viewfinder won't be quite what you get in the photograph because of parallax error",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "late 16th century (also in the general sense ‘fact of seeing wrongly’): from French parallaxe, from Greek parallaxis ‘a change’, from parallassein ‘to alternate’, based on allassein ‘to exchange’ (from allos ‘other’).",
+      "phonetics": [
+        {
+          "text": "ˈparəlaks",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/parallax--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "antenatus",
+    "positionInCollection": 116,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "trouvaille",
+    "positionInCollection": 117,
+    "dictionaryEntry": {
+      "word": "trouvaille",
+      "phonetic": "ˈtruːvʌɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a lucky find.",
+              "example": "one of numerous trouvailles to be gleaned from his book",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "French, from trouver ‘find’.",
+      "phonetics": [
+        {
+          "text": "ˈtruːvʌɪ",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/trouvaille--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "glazier",
+    "positionInCollection": 118,
+    "dictionaryEntry": {
+      "word": "glazier",
+      "phonetic": "ˈɡleɪzɪə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a person whose trade is fitting glass into windows and doors.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": null,
+      "phonetics": [
+        {
+          "text": "ˈɡleɪzɪə",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/glazier--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "kinesiology",
+    "positionInCollection": 119,
+    "dictionaryEntry": {
+      "word": "kinesiology",
+      "phonetic": "kɪˌniːsɪˈɒlədʒi",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "the study of the mechanics of body movements.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "late 19th century: from Greek kinēsis ‘movement’ (from kinein ‘to move’) + -logy.",
+      "phonetics": [
+        {
+          "text": "kɪˌniːsɪˈɒlədʒi",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/kinesiology--_gb_1.8.mp3"
+        },
+        {
+          "text": "kʌɪˌniːsɪˈɒlədʒi",
+          "audio": null
+        }
+      ]
+    }
+  },
+  {
+    "text": "exogenous",
+    "positionInCollection": 120,
+    "dictionaryEntry": {
+      "word": "exogenous",
+      "phonetic": "ɪkˈsɒdʒɪnəs",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "having an external cause or origin.",
+              "example": "technological changes exogenous to the oil industry",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "mid 19th century: from modern Latin exogena (denoting an exogenous plant, suggested by classical Latin indigena ‘native’) + -ous.",
+      "phonetics": [
+        {
+          "text": "ɪkˈsɒdʒɪnəs",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/exogenous--_gb_1.8.mp3"
+        },
+        {
+          "text": "ɛkˈsɒdʒɪnəs",
+          "audio": null
+        }
+      ]
+    }
+  },
+  {
+    "text": "aniseikonia",
+    "positionInCollection": 121,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "guayabera",
+    "positionInCollection": 122,
+    "dictionaryEntry": {
+      "word": "guayabera",
+      "phonetic": "ˌɡʌɪəˈbɛːrə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "an open-necked Cuban or Mexican shirt with two breast pockets and two pockets over the hips, typically having short sleeves and worn untucked.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "Spanish, perhaps related to guayaba ‘guava’ or guayabo ‘guava tree’.",
+      "phonetics": [
+        {
+          "text": "ˌɡʌɪəˈbɛːrə",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/guayabera--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "realgar",
+    "positionInCollection": 123,
+    "dictionaryEntry": {
+      "word": "realgar",
+      "phonetic": "rɪˈalɡə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a soft reddish mineral consisting of arsenic sulphide, formerly used as a pigment and in fireworks.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "late Middle English: via medieval Latin from Arabic rahj al-ġār ‘arsenic’, literally ‘dust of the cave’.",
+      "phonetics": [
+        {
+          "text": "rɪˈalɡə",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/realgar--_gb_3.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "anaphylaxis",
+    "positionInCollection": 124,
+    "dictionaryEntry": {
+      "word": "anaphylaxis",
+      "phonetic": "ˌanəfɪˈlaksɪs",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "an acute allergic reaction to an antigen (e.g. a bee sting) to which the body has become hypersensitive.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "early 20th century: modern Latin, from Greek ana- ‘again’ + phulaxis ‘guarding’.",
+      "phonetics": [
+        {
+          "text": "ˌanəfɪˈlaksɪs",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/anaphylaxis--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "bobolink",
+    "positionInCollection": 125,
+    "dictionaryEntry": {
+      "word": "bobolink",
+      "phonetic": "ˈbɒbəlɪŋk",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a North American songbird of the American blackbird family, with a bill resembling that of a finch. The male has black, buff, and white plumage.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "late 18th century (originally Bob o'Lincoln, Bob Lincoln ): imitative of its call.",
+      "phonetics": [
+        {
+          "text": "ˈbɒbəlɪŋk",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/bobolink--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "diluent",
+    "positionInCollection": 126,
+    "dictionaryEntry": {
+      "word": "diluent",
+      "phonetic": "ˈdɪljʊənt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a substance used to dilute something.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "acting to cause dilution.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "early 18th century (denoting a medicine used to increase the proportion of water in the blood): from Latin diluent- ‘dissolving’, from the verb diluere .",
+      "phonetics": [
+        {
+          "text": "ˈdɪljʊənt",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/diluent--_gb_1.8.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "urushiol",
+    "positionInCollection": 127,
+    "dictionaryEntry": {
+      "word": "urushiol",
+      "phonetic": "ʊˈruːʃɪɒl",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "an oily liquid which is the main constituent of Japanese lacquer and is responsible for the irritant properties of poison ivy and other plants. It consists of a mixture of catechol derivatives.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "early 20th century: from Japanese urushi ‘Japanese lacquer’ + -ol.",
+      "phonetics": [
+        {
+          "text": "ʊˈruːʃɪɒl",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/urushiol--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "andouille",
+    "positionInCollection": 128,
+    "dictionaryEntry": {
+      "word": "andouille",
+      "phonetic": "ɒ̃ˈduːj",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a type of pork sausage, served typically as an hors d'oeuvre.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "French.",
+      "phonetics": [
+        {
+          "text": "ɒ̃ˈduːj",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/andouille--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "otiose",
+    "positionInCollection": 129,
+    "dictionaryEntry": {
+      "word": "otiose",
+      "phonetic": "ˈəʊtɪəʊs",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "serving no practical purpose or result.",
+              "example": "there were occasions when I felt my efforts were rather otiose",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "indolent or idle.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "late 18th century: from Latin otiosus, from otium ‘leisure’.",
+      "phonetics": [
+        {
+          "text": "ˈəʊtɪəʊs",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/otiose--_gb_1.mp3"
+        },
+        {
+          "text": "ˈəʊʃɪəʊs",
+          "audio": null
+        },
+        {
+          "text": "ˈəʊtɪəʊz",
+          "audio": null
+        },
+        {
+          "text": "ˈəʊʃɪəʊz",
+          "audio": null
+        }
+      ]
+    }
+  },
+  {
+    "text": "megacephalic",
+    "positionInCollection": 130,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "souchong",
+    "positionInCollection": 131,
+    "dictionaryEntry": {
+      "word": "souchong",
+      "phonetic": "ˈsuːʃɒŋ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a fine black variety of China tea.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "mid 18th century: from Chinese siú ‘small’ + chúng ‘sort’.",
+      "phonetics": [
+        {
+          "text": "ˈsuːʃɒŋ",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/souchong--_gb_1.8.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "poltroon",
+    "positionInCollection": 132,
+    "dictionaryEntry": {
+      "word": "poltroon",
+      "phonetic": "pɒlˈtruːn",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "an utter coward.",
+              "example": "come on, you poltroons!",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "early 16th century: from French poltron, from Italian poltrone, perhaps from poltro ‘sluggard’.",
+      "phonetics": [
+        {
+          "text": "pɒlˈtruːn",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/poltroon--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "Freudian",
+    "positionInCollection": 133,
+    "dictionaryEntry": {
+      "word": "Freudian",
+      "phonetic": "ˈfrɔɪdɪən",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "relating to or influenced by Sigmund Freud and his methods of psychoanalysis, especially with reference to the importance of sexuality in human behaviour.",
+              "example": "the Freudian concept of the superego",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a follower of Freud or his methods.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": null,
+      "phonetics": [
+        {
+          "text": "ˈfrɔɪdɪən",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/freudian--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "floruit",
+    "positionInCollection": 134,
+    "dictionaryEntry": {
+      "word": "floruit",
+      "phonetic": "ˈflɒrʊɪt",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "definitions": [
+            {
+              "definition": "used in conjunction with a specified period or set of dates to indicate when a particular historical figure lived, worked, or was most active.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "the period during which a historical figure lived or worked.",
+              "example": "they place Nicander's floruit in the middle of the 2nd century BC",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "Latin, literally ‘he or she flourished’, from florere ‘to flourish’.",
+      "phonetics": [
+        {
+          "text": "ˈflɒrʊɪt",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/floruit--_gb_1.8.mp3"
+        },
+        {
+          "text": "ˈflɔːrʊɪt",
+          "audio": null
+        }
+      ]
+    }
+  },
+  {
+    "text": "Bunyanesque",
+    "positionInCollection": 135,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "exsect",
+    "positionInCollection": 136,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "champignon",
+    "positionInCollection": 137,
+    "dictionaryEntry": {
+      "word": "champignon",
+      "phonetic": "tʃamˈpɪnjən",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "an edible mushroom.",
+              "example": "we ordered a side of champignons",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "late 16th century: from French, diminutive of Old French champagne ‘open country’ (see champaign).",
+      "phonetics": [
+        {
+          "text": "tʃamˈpɪnjən",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/champignon--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "bahuvrihi",
+    "positionInCollection": 138,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "panjandrum",
+    "positionInCollection": 139,
+    "dictionaryEntry": {
+      "word": "panjandrum",
+      "phonetic": "panˈdʒandrəm",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a person who has or claims to have a great deal of authority or influence.",
+              "example": "the greatest scientific panjandrum of the 19th century",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "late 19th century: from Grand Panjandrum, an invented phrase in a nonsense verse (1755) by S. Foote.",
+      "phonetics": [
+        {
+          "text": "panˈdʒandrəm",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/panjandrum--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "catachresis",
+    "positionInCollection": 140,
+    "dictionaryEntry": {
+      "word": "catachresis",
+      "phonetic": "ˌkatəˈkriːsɪs",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "the use of a word in an incorrect way, for example the use of mitigate for militate.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "mid 16th century: from Latin, from Greek katakhrēsis, from katakhrēsthai ‘misuse’, from kata- ‘down’ (expressing the sense ‘wrongly’) + khrēsthai ‘use’.",
+      "phonetics": [
+        {
+          "text": "ˌkatəˈkriːsɪs",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/catachresis--_gb_1.8.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "tiffin",
+    "positionInCollection": 141,
+    "dictionaryEntry": {
+      "word": "tiffin",
+      "phonetic": "ˈtɪfɪn",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a snack or light meal.",
+              "example": "tiffin has been ready for some time",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "a cake or dessert made with crushed biscuits, golden syrup, and chocolate, and chilled in a fridge.",
+              "example": "the tiffin was a decadent chocolatey treat",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "early 19th century: apparently from dialect tiffing  ‘sipping’, of unknown origin.",
+      "phonetics": [
+        {
+          "text": "ˈtɪfɪn",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/tiffin--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "colcannon",
+    "positionInCollection": 142,
+    "dictionaryEntry": {
+      "word": "colcannon",
+      "phonetic": "kɒlˈkanən",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "an Irish and Scottish dish of cabbage and potatoes boiled and mashed together.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "late 18th century: from cole; the origin of the second element is uncertain but it is said that cannonballs were used to mash such vegetables as spinach.",
+      "phonetics": [
+        {
+          "text": "kɒlˈkanən",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/colcannon--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "tournedos",
+    "positionInCollection": 143,
+    "dictionaryEntry": {
+      "word": "tournedos",
+      "phonetic": "ˈtʊənədəʊ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a small round thick cut from a fillet of beef.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "French, from tourner ‘to turn’ + dos ‘back’.",
+      "phonetics": [
+        {
+          "text": "ˈtʊənədəʊ",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/tournedos--_gb_3.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "ormolu",
+    "positionInCollection": 144,
+    "dictionaryEntry": {
+      "word": "ormolu",
+      "phonetic": "ˈɔːməluː",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a gold-coloured alloy of copper, zinc, and tin used in decoration and making ornaments.",
+              "example": "candlesticks in glass, bronze, and ormolu",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "mid 18th century: from French or moulu ‘powdered gold’ (used in gilding).",
+      "phonetics": [
+        {
+          "text": "ˈɔːməluː",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/ormolu--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "blottesque",
+    "positionInCollection": 145,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "consommé",
+    "positionInCollection": 146,
+    "dictionaryEntry": {
+      "word": "consommé",
+      "phonetic": "kənˈsɒmeɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a clear soup made with concentrated stock.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "French, past participle of consommer ‘consume or consummate’, from Latin consummare ‘make complete’ (see consummate).",
+      "phonetics": [
+        {
+          "text": "kənˈsɒmeɪ",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/xconsomme--1_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "ullage",
+    "positionInCollection": 147,
+    "dictionaryEntry": {
+      "word": "ullage",
+      "phonetic": "ˈʌlɪdʒ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "the amount by which a container falls short of being full.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "late Middle English: from Anglo-Norman French ulliage, from Old French euillier ‘fill up’, based on Latin oculus ‘eye’ (with reference to a container's bunghole).",
+      "phonetics": [
+        {
+          "text": "ˈʌlɪdʒ",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/ullage--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "zortzico",
+    "positionInCollection": 148,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "teratism",
+    "positionInCollection": 149,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "flagellum",
+    "positionInCollection": 150,
+    "dictionaryEntry": {
+      "word": "flagellum",
+      "phonetic": "fləˈdʒɛləm",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a slender threadlike structure, especially a microscopic appendage that enables many protozoa, bacteria, spermatozoa, etc. to swim.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "early 19th century (denoting a whip or scourge): from Latin, diminutive of flagrum ‘scourge’.",
+      "phonetics": [
+        {
+          "text": "fləˈdʒɛləm",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/flagellum--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "panegyric",
+    "positionInCollection": 151,
+    "dictionaryEntry": {
+      "word": "panegyric",
+      "phonetic": "ˌpanɪˈdʒɪrɪk",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a public speech or published text in praise of someone or something.",
+              "example": "a panegyric on the pleasures of malt whisky",
+              "synonyms": [
+                "eulogy",
+                "speech of praise",
+                "paean",
+                "accolade",
+                "tribute",
+                "testimonial",
+                "commendation",
+                "acclamation"
+              ],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "early 17th century: from French panégyrique, via Latin from Greek panēgurikos ‘of public assembly’, from pan ‘all’ + aguris ‘agora, assembly’.",
+      "phonetics": [
+        {
+          "text": "ˌpanɪˈdʒɪrɪk",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/panegyric--_gb_1.8.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "hoi polloi",
+    "positionInCollection": 152,
+    "dictionaryEntry": {
+      "word": "hoi polloi",
+      "phonetic": "ˌhɔɪ pɒˈlɔɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "the masses; the common people.",
+              "example": "avoid mixing with the hoi polloi",
+              "synonyms": [
+                "the masses",
+                "the common people",
+                "the populace",
+                "the public",
+                "the people",
+                "the multitude",
+                "the rank and file",
+                "the lower orders",
+                "the crowd",
+                "the commonality",
+                "the commonalty",
+                "the commons",
+                "the third estate",
+                "the plebeians",
+                "the mob",
+                "the proletariat",
+                "the common herd",
+                "the herd",
+                "the rabble",
+                "the riff-raff",
+                "the canaille",
+                "the great unwashed",
+                "the many",
+                "the ragtag (and bobtail)",
+                "the plebs",
+                "the proles",
+                "the peasants"
+              ],
+              "antonyms": [
+                "the elite",
+                "the aristocracy"
+              ]
+            }
+          ]
+        }
+      ],
+      "origin": "mid 17th century: Greek, literally ‘the many’.",
+      "phonetics": [
+        {
+          "text": "ˌhɔɪ pɒˈlɔɪ",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/hoi_polloi--1_gb_1.8.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "sirenian",
+    "positionInCollection": 153,
+    "dictionaryEntry": {
+      "word": "sirenian",
+      "phonetic": "sʌɪˈriːnɪən",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a large aquatic plant-eating mammal of the order Sirenia, such as a manatee or dugong.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "relating to or denoting sirenians.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": null,
+      "phonetics": [
+        {
+          "text": "sʌɪˈriːnɪən",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/sirenian--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "nescience",
+    "positionInCollection": 154,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "blatherskite",
+    "positionInCollection": 155,
+    "dictionaryEntry": {
+      "word": "blatherskite",
+      "phonetic": "ˈblaðəskʌɪt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a person who talks at great length without making much sense.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "mid 17th century: from blather + skite, a Scots derogatory term adopted into American colloquial speech during the War of Independence from the Scottish song ‘Maggie Lauder’, by F. Semphill, which was popular with American troops.",
+      "phonetics": [
+        {
+          "text": "ˈblaðəskʌɪt",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/blatherskite--_gb_1.8.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "consigliere",
+    "positionInCollection": 156,
+    "dictionaryEntry": {
+      "word": "consigliere",
+      "phonetic": "ˌkɒnsɪˈljɛːreɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a member of a Mafia family who serves as an adviser to the leader and resolves disputes within the family.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "Italian, literally ‘a member of a council’.",
+      "phonetics": [
+        {
+          "text": "ˌkɒnsɪˈljɛːreɪ",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/xconsigliere--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "adiabatic",
+    "positionInCollection": 157,
+    "dictionaryEntry": {
+      "word": "adiabatic",
+      "phonetic": "ˌeɪdʌɪəˈbatɪk",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "relating to or denoting a process or condition in which heat does not enter or leave the system concerned.",
+              "example": "the adiabatic expansion of a perfect gas",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a curve or formula representing adiabatic phenomena.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "late 19th century: from Greek adiabatos ‘impassable’, from a- ‘not’ + dia ‘through’ + batos ‘passable’ (from bainein ‘go’), + -ic.",
+      "phonetics": [
+        {
+          "text": "ˌeɪdʌɪəˈbatɪk",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/adiabatic--_gb_2.mp3"
+        },
+        {
+          "text": "ˌadɪəˈbatɪk",
+          "audio": null
+        }
+      ]
+    }
+  },
+  {
+    "text": "camembert",
+    "positionInCollection": 158,
+    "dictionaryEntry": {
+      "word": "Camembert",
+      "phonetic": "ˈkaməmbɛː",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a kind of rich, soft, creamy cheese with a whitish rind, originally made near Camembert in Normandy.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": null,
+      "phonetics": [
+        {
+          "text": "ˈkaməmbɛː",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/camembert--1_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "ecchymosis",
+    "positionInCollection": 159,
+    "dictionaryEntry": {
+      "word": "ecchymosis",
+      "phonetic": "ˌɛkɪˈməʊsɪs",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a discoloration of the skin resulting from bleeding underneath, typically caused by bruising.",
+              "example": "there are signs of ecchymosis",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "mid 16th century: modern Latin, from Greek ekkhumōsis ‘escape of blood’, from ekkhumonathai ‘force out blood’.",
+      "phonetics": [
+        {
+          "text": "ˌɛkɪˈməʊsɪs",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/ecchymosis--_gb_1.8.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "oppidan",
+    "positionInCollection": 160,
+    "dictionaryEntry": {
+      "word": "oppidan",
+      "phonetic": "ˈɒpɪd(ə)n",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "(at Eton College) a pupil who boards in town rather than in the school itself.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "relating to a town; urban.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "mid 16th century: from Latin oppidanus ‘belonging to a town (other than Rome)’, from oppidum ‘fortified town’.",
+      "phonetics": [
+        {
+          "text": "ˈɒpɪd(ə)n",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/oppidan--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "decastich",
+    "positionInCollection": 161,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "Naugahyde",
+    "positionInCollection": 162,
+    "dictionaryEntry": {
+      "word": "Naugahyde",
+      "phonetic": "ˈnɔːɡəhʌɪd",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "an artificial material designed to resemble leather, made from fabric coated with rubber or vinyl resin.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "early 20th century: from Nauga(tuck), the name of a town in Connecticut, US, where rubber is manufactured, + -hyde (alteration of hide2).",
+      "phonetics": [
+        {
+          "text": "ˈnɔːɡəhʌɪd",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/naugahyde--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "lefse",
+    "positionInCollection": 163,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "beccafico",
+    "positionInCollection": 164,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "amphistylar",
+    "positionInCollection": 165,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "saturnine",
+    "positionInCollection": 166,
+    "dictionaryEntry": {
+      "word": "saturnine",
+      "phonetic": "ˈsatənʌɪn",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "(of a person or their manner) gloomy.",
+              "example": "a saturnine temperament",
+              "synonyms": [
+                "gloomy",
+                "sombre",
+                "melancholy",
+                "melancholic",
+                "moody",
+                "miserable",
+                "lugubrious",
+                "dour",
+                "glum",
+                "unsmiling",
+                "humourless",
+                "grumpy",
+                "bad-tempered",
+                "taciturn",
+                "uncommunicative",
+                "unresponsive"
+              ],
+              "antonyms": [
+                "cheerful",
+                "jovial"
+              ]
+            },
+            {
+              "definition": "relating to lead.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "late Middle English (as a term in astrology): from Old French saturnin, from medieval Latin Saturninus ‘of Saturn’ (identified with lead by the alchemists and associated with slowness and gloom by astrologers).",
+      "phonetics": [
+        {
+          "text": "ˈsatənʌɪn",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/saturnine--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "zaibatsu",
+    "positionInCollection": 167,
+    "dictionaryEntry": {
+      "word": "zaibatsu",
+      "phonetic": "zʌɪˈbatsuː",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a large Japanese business conglomerate.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "Japanese, from zai ‘wealth’ + batsu ‘clique’.",
+      "phonetics": [
+        {
+          "text": "zʌɪˈbatsuː",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/zaibatsu--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "titian",
+    "positionInCollection": 168,
+    "dictionaryEntry": {
+      "word": "Titian",
+      "phonetic": "ˈtɪʃ(ə)n",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "(of hair) bright golden auburn.",
+              "example": "a mass of Titian curls",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "early 19th century: from Titian1, by association with the bright auburn hair portrayed in many of his works.",
+      "phonetics": [
+        {
+          "text": "ˈtɪʃ(ə)n",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/titian--1_gb_1.8.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "tokonoma",
+    "positionInCollection": 169,
+    "dictionaryEntry": {
+      "word": "tokonoma",
+      "phonetic": "ˌtɒkəʊˈnəʊmə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "(in a Japanese house) a recess or alcove, typically a few inches above floor level, for displaying flowers, pictures, and ornaments.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "Japanese.",
+      "phonetics": [
+        {
+          "text": "ˌtɒkəʊˈnəʊmə",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/tokonoma--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "unguiculate",
+    "positionInCollection": 170,
+    "dictionaryEntry": {
+      "word": "unguiculate",
+      "phonetic": "ʌŋˈɡwɪkjʊlət",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "having one or more nails or claws.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "(of a petal) having a narrow stalklike base.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "early 19th century: from modern Latin unguiculatus, from Latin unguiculus ‘fingernail, toenail’, diminutive of unguis ‘nail’.",
+      "phonetics": [
+        {
+          "text": "ʌŋˈɡwɪkjʊlət",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/unguiculate--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "amaryllis",
+    "positionInCollection": 171,
+    "dictionaryEntry": {
+      "word": "amaryllis",
+      "phonetic": "ˌaməˈrɪlɪs",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a bulbous plant with showy trumpet-shaped flowers and strap-shaped leaves.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "modern Latin, from Latin Amaryllis (from Greek Amarullis ), a name for a country girl in pastoral poetry.",
+      "phonetics": [
+        {
+          "text": "ˌaməˈrɪlɪs",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/amaryllis--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "reveille",
+    "positionInCollection": 172,
+    "dictionaryEntry": {
+      "word": "reveille",
+      "phonetic": "rɪˈvali",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a signal sounded especially on a bugle or drum to wake personnel in the armed forces.",
+              "example": "reveille was at 0430 hours",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "mid 17th century: from French réveillez! ‘wake up!’, imperative plural of réveiller, based on Latin vigilare ‘keep watch’.",
+      "phonetics": [
+        {
+          "text": "rɪˈvali",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/reveille--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "regnal",
+    "positionInCollection": 173,
+    "dictionaryEntry": {
+      "word": "regnal",
+      "phonetic": "ˈrɛɡn(ə)l",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "of a reign or monarch.",
+              "example": "she organizes her material by regnal periods",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "early 17th century: from Anglo-Latin regnalis, from Latin regnum ‘kingdom’.",
+      "phonetics": [
+        {
+          "text": "ˈrɛɡn(ə)l",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/regnal--_gb_1.8.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "attaché",
+    "positionInCollection": 174,
+    "dictionaryEntry": {
+      "word": "attaché",
+      "phonetic": "əˈtaʃeɪ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a person on the staff of an ambassador having a specialized area of responsibility.",
+              "example": "naval and air attachés",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "short for attaché case.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "early 19th century: from French, literally ‘attached’, past participle of attacher .",
+      "phonetics": [
+        {
+          "text": "əˈtaʃeɪ",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/attache--1_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "rafflesia",
+    "positionInCollection": 175,
+    "dictionaryEntry": {
+      "word": "rafflesia",
+      "phonetic": "rəˈfliːʒɪə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a parasitic plant which lacks chlorophyll and bears a single very large flower which smells of carrion, native to Malaysia and Indonesia.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "modern Latin, named after Sir T. Stamford Raffles (see Raffles, Sir Stamford).",
+      "phonetics": [
+        {
+          "text": "rəˈfliːʒɪə",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/rafflesia--_gb_1.mp3"
+        },
+        {
+          "text": "rəfliːˈzɪə",
+          "audio": null
+        }
+      ]
+    }
+  },
+  {
+    "text": "ranunculus",
+    "positionInCollection": 176,
+    "dictionaryEntry": {
+      "word": "ranunculus",
+      "phonetic": "rəˈnʌŋkjʊləs",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a temperate plant of a genus that includes the buttercups and water crowfoots, typically having yellow or white bowl-shaped flowers and lobed or toothed leaves.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "modern Latin, from Latin, literally ‘little frog’, diminutive of rana .",
+      "phonetics": [
+        {
+          "text": "rəˈnʌŋkjʊləs",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/ranunculus--_gb_1.8.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "pistou",
+    "positionInCollection": 177,
+    "dictionaryEntry": {
+      "word": "pistou",
+      "phonetic": "ˈpiːstuː",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "sauce or paste made from crushed basil, garlic, and cheese, used especially in Provençal dishes.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "Provençal; compare with pesto.",
+      "phonetics": [
+        {
+          "text": "ˈpiːstuː",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/pistou--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "scintillation",
+    "positionInCollection": 178,
+    "dictionaryEntry": {
+      "word": "scintillation",
+      "phonetic": "sɪntɪˈleɪʃ(ə)n",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a flash or sparkle of light.",
+              "example": "scintillations of diamond-hard light",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": null,
+      "phonetics": [
+        {
+          "text": "sɪntɪˈleɪʃ(ə)n",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/scintillation--_gb_1.8.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "Bolognese",
+    "positionInCollection": 179,
+    "dictionaryEntry": {
+      "word": "Bolognese",
+      "phonetic": "bɒləˈneɪz",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "relating to Bologna or its people.",
+              "example": "the Bolognese painters of the 17th century",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "denoting a sauce of minced beef, tomato, onion, and herbs, typically served with pasta.",
+              "example": "ravioli with bolognese sauce",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a native or inhabitant of Bologna.",
+              "example": "the Bolognese invented tagliatelle, tortellini, and lasagne",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "a pasta dish made with bolognese sauce, in particular spaghetti bolognese, or the sauce itself.",
+              "example": "I offered to cook a bolognese for lunch",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "Italian; the form bolognaise is via French.",
+      "phonetics": [
+        {
+          "text": "bɒləˈneɪz",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/bolognese--1_gb_1.mp3"
+        },
+        {
+          "text": "bɒləˈnjeɪz",
+          "audio": null
+        }
+      ]
+    }
+  },
+  {
+    "text": "farrago",
+    "positionInCollection": 180,
+    "dictionaryEntry": {
+      "word": "farrago",
+      "phonetic": "fəˈrɑːɡəʊ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a confused mixture.",
+              "example": "a farrago of fact and myth about Abraham Lincoln",
+              "synonyms": [
+                "hotchpotch",
+                "hodgepodge",
+                "mishmash",
+                "ragbag",
+                "pot-pourri",
+                "jumble",
+                "mess",
+                "confusion",
+                "patchwork",
+                "melange",
+                "hash",
+                "random collection",
+                "motley collection",
+                "chaos",
+                "assortment",
+                "miscellany",
+                "mixture",
+                "conglomeration",
+                "medley",
+                "dog's dinner/breakfast",
+                "mash-up",
+                "gallimaufry",
+                "olio",
+                "olla podrida",
+                "mingle-mangle",
+                "omnium gatherum",
+                "salmagundi",
+                "macédoine"
+              ],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "mid 17th century: from Latin, literally ‘mixed fodder’, from far ‘corn’.",
+      "phonetics": [
+        {
+          "text": "fəˈrɑːɡəʊ",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/farrago--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "coup de grace",
+    "positionInCollection": 181,
+    "dictionaryEntry": {
+      "word": "coup de grâce",
+      "phonetic": "ˌkuː də ˈɡrɑːs",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a final blow or shot given to kill a wounded person or animal.",
+              "example": "he administered the coup de grâce with a knife",
+              "synonyms": [
+                "death blow",
+                "finishing blow",
+                "killing",
+                "dispatch",
+                "kiss of death",
+                "KO",
+                "kayo"
+              ],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "French, literally ‘stroke of grace’.",
+      "phonetics": [
+        {
+          "text": "ˌkuː də ˈɡrɑːs",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/coup_de_grace--1_gb_1.mp3"
+        },
+        {
+          "text": "French ku də ɡʀas",
+          "audio": null
+        }
+      ]
+    }
+  },
+  {
+    "text": "tourelle",
+    "positionInCollection": 182,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "notturno",
+    "positionInCollection": 183,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "ginglymus",
+    "positionInCollection": 184,
+    "dictionaryEntry": {
+      "word": "ginglymus",
+      "phonetic": "ˈɡɪŋɡlɪməs",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a hinge-like joint such as the elbow or knee, that allows movement in only one plane.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "late 16th century: modern Latin, from Greek ginglumos ‘hinge’.",
+      "phonetics": [
+        {
+          "text": "ˈɡɪŋɡlɪməs",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/ginglymus--_gb_1.8.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "hemorrhage",
+    "positionInCollection": 185,
+    "dictionaryEntry": {
+      "word": "haemorrhage",
+      "phonetic": "ˈhɛmərɪdʒ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "an escape of blood from a ruptured blood vessel.",
+              "example": "a massive haemorrhage of the brain",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "verb",
+          "definitions": [
+            {
+              "definition": "(of a person) suffer a haemorrhage.",
+              "example": "he had begun haemorrhaging in the night",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "late 17th century (as a noun): alteration of obsolete haemorrhagy, via Latin from Greek haimorrhagia, from haima ‘blood’ + the stem of rhēgnunai ‘burst’.",
+      "phonetics": [
+        {
+          "text": "ˈhɛmərɪdʒ",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/haemorrhage--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "tapetum",
+    "positionInCollection": 186,
+    "dictionaryEntry": {
+      "word": "tapetum",
+      "phonetic": "təˈpiːtəm",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a reflective layer of the choroid in the eyes of many animals, causing them to shine in the dark.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "early 18th century: from late Latin, from Latin tapete ‘carpet’.",
+      "phonetics": [
+        {
+          "text": "təˈpiːtəm",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/tapetum--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "golem",
+    "positionInCollection": 187,
+    "dictionaryEntry": {
+      "word": "golem",
+      "phonetic": "ˈɡəʊləm",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "(in Jewish legend) a clay figure brought to life by magic.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "late 19th century: from Yiddish goylem, from Hebrew gōlem ‘shapeless mass’.",
+      "phonetics": [
+        {
+          "text": "ˈɡəʊləm",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/golem--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "krewe",
+    "positionInCollection": 188,
+    "dictionaryEntry": {
+      "word": "krewe",
+      "phonetic": "kruː",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "(in the US) an organization or association that stages a parade or other event for a carnival celebration. Krewes are associated especially with Mardi Gras in New Orleans.",
+              "example": "the krewe is famous for huge floats with national celebrities",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "mid 19th century: from the name of The Mistick Krewe of Comus, the first such organization, krewe representing an archaic variant spelling of crew1.",
+      "phonetics": [
+        {
+          "text": "kruː",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/crew--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "toque",
+    "positionInCollection": 189,
+    "dictionaryEntry": {
+      "word": "toque",
+      "phonetic": "təʊk",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a woman's small hat having a narrow, closely turned up brim.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "early 16th century: from French, of unknown origin.",
+      "phonetics": [
+        {
+          "text": "təʊk",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/toque--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "avuncular",
+    "positionInCollection": 190,
+    "dictionaryEntry": {
+      "word": "avuncular",
+      "phonetic": "əˈvʌŋkjʊlə",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "kind and friendly towards a younger or less experienced person.",
+              "example": "he was avuncular, reassuring, and trustworthy",
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "relating to the relationship between men and the children of their siblings.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "mid 19th century: from Latin avunculus ‘maternal uncle’, diminutive of avus ‘grandfather’.",
+      "phonetics": [
+        {
+          "text": "əˈvʌŋkjʊlə",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/avuncular--_gb_2.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "habiliments",
+    "positionInCollection": 191,
+    "dictionaryEntry": {
+      "word": "habiliment",
+      "phonetic": "həˈbɪlɪm(ə)nt",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "clothing.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "late Middle English (in the general sense ‘outfit, attire’): from Old French habillement, from habiller ‘fit out’, from Latin habilis (see able).",
+      "phonetics": [
+        {
+          "text": "həˈbɪlɪm(ə)nt",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/habiliment--_gb_1.8.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "rubato",
+    "positionInCollection": 192,
+    "dictionaryEntry": {
+      "word": "rubato",
+      "phonetic": "rʊˈbɑːtəʊ",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "the temporary disregarding of strict tempo to allow an expressive quickening or slackening, usually without altering the overall pace.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "performed with rubato.",
+              "example": "a rubato phrase",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "Italian, literally ‘robbed’.",
+      "phonetics": [
+        {
+          "text": "rʊˈbɑːtəʊ",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/rubato--_gb_1.8.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "gentilitial",
+    "positionInCollection": 193,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "obnebulate",
+    "positionInCollection": 194,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "allonym",
+    "positionInCollection": 195,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "croquembouche",
+    "positionInCollection": 196,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "kobold",
+    "positionInCollection": 197,
+    "dictionaryEntry": {
+      "word": "kobold",
+      "phonetic": "ˈkəʊbəld",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "(in Germanic mythology) a spirit who haunts houses or lives underground in caves or mines.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "from German Kobold .",
+      "phonetics": [
+        {
+          "text": "ˈkəʊbəld",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/kobold--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "mendicity",
+    "positionInCollection": 198,
+    "dictionaryEntry": {
+      "word": "mendicity",
+      "phonetic": "mɛnˈdɪsɪti",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "the condition or activities of a beggar.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "late Middle English: from Old French mendicite, from Latin mendicitas, from mendicus ‘beggar’.",
+      "phonetics": [
+        {
+          "text": "mɛnˈdɪsɪti",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/mendicity--_gb_1.8.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "castellated",
+    "positionInCollection": 199,
+    "dictionaryEntry": {
+      "word": "castellated",
+      "phonetic": "ˈkastəleɪtɪd",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "having battlements.",
+              "example": "a castellated gatehouse",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "late 17th century: from medieval Latin castellatus, from Latin castellum (see castle).",
+      "phonetics": [
+        {
+          "text": "ˈkastəleɪtɪd",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/castellated--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "toponymic",
+    "positionInCollection": 200,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "boudin",
+    "positionInCollection": 201,
+    "dictionaryEntry": {
+      "word": "boudin",
+      "phonetic": "ˈbuːdã",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a French type of black pudding.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            },
+            {
+              "definition": "a series of elongated parallel sections formed by the fracturing of a sedimentary rock stratum during folding.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "French.",
+      "phonetics": [
+        {
+          "text": "ˈbuːdã",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/boudin--_gb_1.4.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "bucatini",
+    "positionInCollection": 202,
+    "dictionaryEntry": {
+      "word": "bucatini",
+      "phonetic": "ˌbʊkəˈtiːni",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "pasta in the shape of small tubes.",
+              "example": null,
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "Italian.",
+      "phonetics": [
+        {
+          "text": "ˌbʊkəˈtiːni",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/bucatini--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "reboation",
+    "positionInCollection": 203,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "haupia",
+    "positionInCollection": 204,
+    "dictionaryEntry": null
+  },
+  {
+    "text": "Keplerian",
+    "positionInCollection": 205,
+    "dictionaryEntry": {
+      "word": "Keplerian",
+      "phonetic": "kɛˈplɪrɪən",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "relating to or characteristic of the German astronomer Johannes Kepler or his works.",
+              "example": "the accuracy of Keplerian orbital data",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": null,
+      "phonetics": [
+        {
+          "text": "kɛˈplɪrɪən",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/keplerian--1_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "codswallop",
+    "positionInCollection": 206,
+    "dictionaryEntry": {
+      "word": "codswallop",
+      "phonetic": "ˈkɒdzwɒləp",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "nonsense.",
+              "example": "I think that's a right load of old codswallop",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "1960s: perhaps named after Hiram Codd, who invented a bottle for fizzy drinks (1875); the derivation remains unconfirmed.",
+      "phonetics": [
+        {
+          "text": "ˈkɒdzwɒləp",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/codswallop--_gb_1.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "hauteur",
+    "positionInCollection": 207,
+    "dictionaryEntry": {
+      "word": "hauteur",
+      "phonetic": "əʊˈtəː",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "proud haughtiness of manner.",
+              "example": "she swept into the room with formidable hauteur",
+              "synonyms": [
+                "haughtiness",
+                "superciliousness",
+                "loftiness",
+                "arrogance",
+                "pride",
+                "conceit",
+                "snobbery",
+                "snobbishness",
+                "superiority",
+                "self-importance",
+                "disdain",
+                "disdainfulness",
+                "condescension",
+                "contempt",
+                "scorn",
+                "airs",
+                "airs and graces",
+                "snootiness",
+                "uppitiness",
+                "uppishness",
+                "la-di-da",
+                "side"
+              ],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "French, from haut ‘high’.",
+      "phonetics": [
+        {
+          "text": "əʊˈtəː",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/hauteur--_gb_1.8.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "text": "camarilla",
+    "positionInCollection": 208,
+    "dictionaryEntry": {
+      "word": "camarilla",
+      "phonetic": "ˌkaməˈrɪl(j)ə",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "a small group of people, especially a group of advisers to a ruler or politician, with a shared purpose.",
+              "example": "a military camarilla that has lost any sense of political reality",
+              "synonyms": [],
+              "antonyms": []
+            }
+          ]
+        }
+      ],
+      "origin": "mid 19th century: from Spanish, diminutive of camara ‘chamber’.",
+      "phonetics": [
+        {
+          "text": "ˌkaməˈrɪl(j)ə",
+          "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/camarilla--_gb_1.8.mp3"
+        }
+      ]
+    }
+  }
+]
